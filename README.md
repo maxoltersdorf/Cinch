@@ -4,7 +4,7 @@ Cinch, Easy as Py.
 a visual, blocks based programming language
 Inspired by Scratch/ Snap written by Jens Mönig and Brian Harvey
 
-Converting to Python wrapped C# for use as a Blender 2.8x Addon
+Converting to Python wrapped JS for use as a Blender 2.8x Addon
 
 Copyright (C) 2019 by Max Oltersdorf
 
